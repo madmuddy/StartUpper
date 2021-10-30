@@ -1,1 +1,5 @@
 C:\Users\Malik\source\repos\StartUpper\StartUpper\bin\Debug\StartUpper.exe.config
+C:\Users\Malik\source\repos\StartUpper\StartUpper\bin\Debug\StartUpper.exe
+C:\Users\Malik\source\repos\StartUpper\StartUpper\bin\Debug\StartUpper.pdb
+C:\Users\Malik\source\repos\StartUpper\StartUpper\obj\Debug\StartUpper.exe
+C:\Users\Malik\source\repos\StartUpper\StartUpper\obj\Debug\StartUpper.pdb

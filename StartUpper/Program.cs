@@ -10,6 +10,17 @@ namespace StartUpper
     {
         static void Main(string[] args)
         {
+            try
+            {
+                StartUp.Configure();
+                Reader.LoadData();
+
+                Core.AddStartUp();
+                Core.RemoveStartUp();
+            }
+            catch
+            {
+            }
         }
     }
 }
